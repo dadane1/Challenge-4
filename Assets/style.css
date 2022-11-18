@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(237, 229, 232);
+}
+.questions {color: rgb(95, 58, 95);
+    margin: 50px; font-size:larger ;
+}
+.choices { color: rgb(83, 13, 72);
+    margin: 10px; font-size: medium;
+}
+
+.choices li {
+    list-style: none;
+    cursor: pointer;
+}
